@@ -1,0 +1,40 @@
+Why Learn HTML?
+1. Website/Web pages
+2. Career as a Webdesigner
+3. Mobile Application Development.
+(Phonegap/Ionic)
+
+Which HTML version?
+HTML 5 and HTML 4
+
+Software Requirement
+1. HTML EDITOR
+Notepad
+Notepad++
+VS Code
+Sublime
+
+2. BROWSER
+Chrome
+Firefox
+Internet Explorer
+Safari
+Opera
+
+Basic Syntax
+< >
+<tag>
+    Hello World
+</tag>
+
+<html>
+    <head>
+    
+    </head>
+</html>
+
+
+html file save
+
+filename.html
+
